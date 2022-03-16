@@ -942,7 +942,7 @@ img.aboutBookCover{
     border-bottom: 1px solid #000000 !important;
 }
 .table-dr-22 th, .table-dr-22 td{
-    text-align: center;
+    text-align: left;
     border: 1px solid #000000;
 
 }
