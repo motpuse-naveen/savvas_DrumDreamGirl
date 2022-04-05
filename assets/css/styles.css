@@ -591,7 +591,7 @@ table.table-style2 .trbg {
 }
 
 .rikshaw-girl-bg {
-    background: url(../images/Hero_RickShawGirl_8bit.png);
+    background: url(../images/SN23_TBK1_Hero_DrumDreamGirl_8bit.png);
     background-size: 80%;
     background-repeat: no-repeat;
     background-position-x: -165px;
@@ -637,11 +637,12 @@ table.table-style2 .trbg {
 
 h1.main-heading {
     font-family: 'poppins-semibold';
-    font-size: 120px;
+    font-size: 100px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
+    line-height: 84px;
     letter-spacing: -5px;
-    line-height: 170px;
+    margin-top: 12px;
     margin-right: 72px;
 }
 
@@ -676,7 +677,7 @@ h1.main-heading {
 .moreInfo-wrapper {
     float: right;
     width: 370px;
-    margin-top: -136px;
+    margin-top: -116px;
 }
 .moreInfo {
     position: absolute;
@@ -743,7 +744,7 @@ blockquote {
 
 .orbitdiv-button{
     position: absolute;
-    top: -280px;
+    top: -256px;
     right: -80px;
     width: 234px;
     height: 234px;
