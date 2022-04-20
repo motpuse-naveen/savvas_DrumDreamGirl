@@ -287,7 +287,19 @@ a {
 a:hover {
     color: #0056b3; 
 }
-
+.side-disclamer11{
+    font-family: "poppins-regular";
+    font-size: 11px;
+    line-height: 15px;
+    margin-left: -200px;
+    margin-right: 11px;
+    position: fixed;
+    bottom: 0;
+    width: 180px;
+}.side-disclamer11 .disctext {
+    font-size: 11px !important;
+    margin-right: 5px !important;
+}
 
 .side-disclamer {
     font-family: "poppins-regular";
@@ -603,18 +615,18 @@ table.table-style2 .trbg {
 
 .award-circle-wrap {
     padding-left: 30px;
-    padding-top: 45px;
+    padding-top: 98px;
 }
 
 .award-circle {
     /*height: 180px;*/
-    width: 180px;
+    width: 152px;
     background-color: #EBC979;
     border-radius: 50%;
 }
 
 .award-circle .award-text {
-    padding: 34px 15px;
+    padding: 28px 15px;
     font-family: 'poppins-semibold';
     font-size: 20px;
     text-align: center;
