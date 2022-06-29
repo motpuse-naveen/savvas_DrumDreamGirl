@@ -235,6 +235,9 @@
         font-size: 65px;
         line-height: 77px;
     }
+    .rikshaw-girl-text{
+        padding-left: 0px;
+    }
     .orbitdiv{
         position: fixed;
         height: auto;
@@ -331,7 +334,7 @@
         top: 45%;
     }
     .rikshaw-girl-text {
-        padding-top: 69px;
+        padding-top: 85px;
         padding-bottom: 10%;
     }
     .author-container.mobile .author-wrap {
